@@ -1,5 +1,6 @@
 pusher.com
 twitch.tv
+api.steampowered.com
 steamcommunity.com
 nvidia.com
 msi.com
